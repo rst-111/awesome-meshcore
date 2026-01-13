@@ -29,6 +29,10 @@ Everything from the official MeshCore project:
 - [The FAQ](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md)
 - [MeshCore Web Flasher](https://flasher.meshcore.co.uk/)
 
+## Open Source apps
+- [Meshcore Open](https://github.com/zjs81/meshcore-open) -Cross plaform FOSS client app for phones
+- [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network. 
+
 ### Social Media
 
 - [Discord](https://discord.gg/ZVH2ujy9ex)
@@ -39,7 +43,8 @@ Everything from the official MeshCore project:
 ## Maps and Diagnostics
 
 Tools for the every-user to see whats going on in general.
-
+- [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android)
+- [Community Map of Meshcore-Wardrive-Android data (https://meshwar-map.pages.dev/)
 - [MeshCore Map](https://map.meshcore.dev/) - static user uploads
 - [m3sh.uk Map](https://m3sh.uk/contacts/) - UK network as seen from Oxfordshire
 
