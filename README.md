@@ -29,7 +29,8 @@ Everything from the official MeshCore project:
 ## Open Source apps
 - [Meshcore Open](https://github.com/zjs81/meshcore-open) -Cross plaform FOSS client app for phones
 - [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
-- [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/) 
+- [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
+- [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) Device firmware with enhanced user interface
 
 ### Social Media
 
