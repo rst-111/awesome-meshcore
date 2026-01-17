@@ -45,6 +45,7 @@ Everything from the official MeshCore project:
 Tools for the every-user to see whats going on in general.
 - [https://mapme.sh/](https://mapme.sh/) - User reported signal
 - [https://map.meshradio.uk/](https://map.meshradio.uk/) - Analysis tool
+- [https://analyzer.letsmesh.net/](https://analyzer.letsmesh.net) - MeshCore Analyzer
 - [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) and [Map of Meshcore-Wardrive-Android data](https://meshwar-map.pages.dev/)
 - [MeshCore Map](https://map.meshcore.dev/) - static user uploads
 - [m3sh.uk Map](https://m3sh.uk/contacts/) - UK network as seen from Oxfordshire
