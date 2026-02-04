@@ -37,10 +37,11 @@ Everything from the official MeshCore project:
 
 ## Open Source apps
 
-- [Meshcore Open](https://github.com/zjs81/meshcore-open) -Cross plaform FOSS client app for phones
+- [Meshcore Open](https://github.com/zjs81/meshcore-open) Cross plaform FOSS client app for phones
 - [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) Meshcore device firmware with enhanced user interface
 - [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
 - [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
+- [PocketMesh](https://github.com/Avi0n/PocketMesh) A native MeshCore client for iOS & iPadOS 
 - [Potato mesh](https://github.com/l5yth/potato-mesh) - Web frontend to networks
 - [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) and [Map of Meshcore-Wardrive-Android data](https://meshwar-map.pages.dev/)
 
