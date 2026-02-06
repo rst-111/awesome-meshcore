@@ -49,7 +49,7 @@ or IoT sensor networks.
 - [Meshcore for Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV)
 - [Meshcore for Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro)
 - [Meshcore GUI for Linux](https://github.com/pe1hvh/meshcore-gui)
-- [TapTap](https://taptap.mtoolstec.com/) (proprietary)for the SenseCAP Card Tracker T1000-E
+- [TapTap](https://taptap.mtoolstec.com/) (proprietary?) for the SenseCAP Card Tracker T1000-E
 
 
 ## Maps and Diagnostics
@@ -73,5 +73,9 @@ Tools to see whats going on in general.
 - [MeshCore UK](https://meshcore.co.uk/)
 
 ## Country/ region Discord
+
+- [Most within main Discord](https://discord.gg/mt7NNZ86RS) Many regional channels exist within the Main Discord server
+  
+  In addition there is
 - [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
 
