@@ -43,6 +43,7 @@ or IoT sensor networks.
 - [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) Home Assistant integration for monitoring and controlling MeshCore radio networks
 - [Meshcore GUI for Linux](https://github.com/pe1hvh/meshcore-gui) Desktop Linux GUI for MeshCore mesh network devices via BLE
 - [MeshFirmware](https://github.com/mikecarper/meshfirmware) Windows/ Linux USB firmware updater for meshcore & meshtastic device
+- [Map.meshcore.dev-uploader](https://github.com/recrof/map.meshcore.dev-uploader) This bot will upload every repeater or room server to the map when companion hears new advert
 - [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
 - [Potato mesh](https://github.com/l5yth/potato-mesh) - Web frontend to networks
 - [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) and [Map of Meshcore-Wardrive-Android data](https://meshwar-map.pages.dev/)
