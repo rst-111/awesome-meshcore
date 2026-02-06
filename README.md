@@ -14,8 +14,8 @@ or IoT sensor networks.
 - [Open Source apps](#open-source-apps)
 - [Alternative Firmware](#alternative-firmware)
 - [Maps and Diagnostics](#maps-and-diagnostics)
-- [Country / region Websites](#country-/-region-websites)
-- [Country / region Discord](#country-/-region-Discord)
+- [Country / region Websites](#country--region-websites)
+- [Country / region Discord](#country-region-Discord)
 
    
 --------------------
