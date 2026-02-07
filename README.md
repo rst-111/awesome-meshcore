@@ -86,6 +86,7 @@ or IoT sensor networks.
 - [MeshCore Portugal](https://meshcore.pt/)
 - [MeshCore Switzerland](https://www.meshcore.ch/)
 - [MeshCore UK](https://meshcore.co.uk/)
+- [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
 
 ### USA
 
