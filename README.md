@@ -85,8 +85,9 @@ Tools to see whats going on in general.
 ### USA
 
 - [Austin, TX](https://www.austinmesh.org/)
-- [West coast Mesh](https://www.wcmesh.com/) 
-
+- [West coast Mesh](https://www.wcmesh.com/)
+- [nyme.sh](https://nyme.sh/)
+- [CT Mesh](https://ctmesh.org/)
 
 ## Country / region Discord
 
@@ -99,4 +100,5 @@ In addition there is:
 
 ### USA
 - [West coast Mesh Discord](discord.gg/wcmesh)
-
+- [nyme.sh Discord](https://discord.nyme.sh/)
+- [CT Mesh Discord](https://discord.gg/m4F328as3K)
