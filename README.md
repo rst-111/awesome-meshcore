@@ -81,19 +81,19 @@ or IoT sensor networks.
 ### Europe
 
 - [Meshcore Ireland](https://loraproject.ie/)
-  - [Mayo Mesh](https://mayomesh.net/) 
+  - [Mayo Mesh](https://mayomesh.net/)
+- [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
 - [Meshcore Netherlands ](https://www.localmesh.nl/en/)
 - [MeshCore Portugal](https://meshcore.pt/)
 - [MeshCore Switzerland](https://www.meshcore.ch/)
 - [MeshCore UK](https://meshcore.co.uk/)
-- [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
 
 ### USA
 
 - [Austin, TX](https://www.austinmesh.org/)
-- [West coast Mesh](https://www.wcmesh.com/)
-- [nyme.sh](https://nyme.sh/)
 - [CT Mesh](https://ctmesh.org/)
+- [nyme.sh](https://nyme.sh/)
+- [West coast Mesh](https://www.wcmesh.com/)
 
 ## Country / region Discord
 
