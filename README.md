@@ -39,6 +39,8 @@ or IoT sensor networks.
 - [Meshcore Open](https://github.com/zjs81/meshcore-open) Cross plaform FOSS client app for phones
 - [PocketMesh](https://github.com/Avi0n/PocketMesh) A native MeshCore client for iOS & iPadOS
 - [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
+- [pyMC Console dist](https://github.com/dmduran12/pymc_console-dist) A real-time web dashboard for repeaters.
+- [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) A lightweight Repeater Daemon implemented in Python, built using the pymc_core library. 
 - [MC-WebUI ](https://github.com/MarekWo/mc-webui) A WebUI for meshcore-cli, providing browser-based access to MeshCore network
 - [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) Home Assistant integration for monitoring and controlling MeshCore radio networks
 - [Meshcore GUI for Linux](https://github.com/pe1hvh/meshcore-gui) Desktop Linux GUI for MeshCore mesh network devices via BLE
@@ -82,13 +84,19 @@ Tools to see whats going on in general.
 
 ### USA
 
-- [Austin, TX](https://www.austinmesh.org/)    
+- [Austin, TX](https://www.austinmesh.org/)
+- [West coast Mesh](https://www.wcmesh.com/) 
 
 
 ## Country / region Discord
 
 - [Most within main Discord](https://discord.gg/mt7NNZ86RS) Many regional channels exist within the Main Discord server
-  
-  In addition there is
+
+In addition there is:
+
+### Europe
 - [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
+
+### USA
+- [West coast Mesh Discord](discord.gg/wcmesh)
 
