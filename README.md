@@ -82,10 +82,11 @@ or IoT sensor networks.
 
 - [Meshcore Ireland](https://loraproject.ie/)
   - [Mayo Mesh](https://mayomesh.net/)
-- [Meshcore Catalonia (Spain)](https://meshcore.cat/]
-- [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
 - [Meshcore Netherlands ](https://www.localmesh.nl/en/)
 - [MeshCore Portugal](https://meshcore.pt/)
+- Spain
+  - [Meshcore Catalonia (Spain)](https://meshcore.cat/)
+  - [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
 - [MeshCore Switzerland](https://www.meshcore.ch/)
 - [MeshCore UK](https://meshcore.co.uk/)
 
