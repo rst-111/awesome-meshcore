@@ -105,6 +105,11 @@ or IoT sensor networks.
   - [nyme.sh](https://nyme.sh/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
+### Oceania
+
+- Australia
+  - [East Mesh](https://eastmesh.au/)
+
 
 ## Country / region Discord
 
