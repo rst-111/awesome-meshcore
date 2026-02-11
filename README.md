@@ -93,17 +93,26 @@ or IoT sensor networks.
 
 ### Europe
 
-- [Meshcore Ireland](https://loraproject.ie/)
+- Great Britain
+  - [MeshCore UK](https://meshcore.co.uk/)
+- Ireland
+  - [Meshcore Ireland](https://loraproject.ie/)
   - [Mayo Mesh](https://mayomesh.net/)
-- [Meshcore Netherlands ](https://www.localmesh.nl/en/)
-- [Meshcore Poland](https://lorameshcore.pl/)
-- [MeshCore Portugal](https://meshcore.pt/)
+- Latvia
+  - [MeshCore Latvia](https://apraide.lv/)
+- Netherlands
+  - [Meshcore Netherlands ](https://www.localmesh.nl/en/)
+- Poland
+  - [Meshcore Poland](https://lorameshcore.pl/)
+- Portugal
+  - [MeshCore Portugal](https://meshcore.pt/)
 - Spain
   - [Meshcore Catalonia (Spain)](https://meshcore.cat/)
   - [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
-- [MeshCore Switzerland](https://www.meshcore.ch/)
-- [MeshCore UK](https://meshcore.co.uk/)
-- [MeshCore Latvia](https://apraide.lv/)
+- Switzerland
+  - [MeshCore Switzerland](https://www.meshcore.ch/)
+
+
 
 ### North America
 
