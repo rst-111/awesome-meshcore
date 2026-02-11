@@ -13,6 +13,7 @@ or IoT sensor networks.
 - [Social Media](#social-media)
 - [Open Source apps](#open-source-apps)
 - [Alternative Firmware](#alternative-firmware)
+- [Bots](#bots)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Country / region Websites](#country--region-websites)
 - [Country / region Discord](#country--region-discord)
@@ -62,6 +63,15 @@ or IoT sensor networks.
 | [Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Specialized UI for M5Stack Cardputer ADV | 86 | Jan 2025 |
 | [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Custom firmware for Seeed Wio Tracker L1 Pro | 42 | July 2025 |
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 2 | Oct 2023 |
+
+## Bots
+
+| Project / URL | Connection | Description |
+| :--- | :--- | :--- |
+| [agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
+| [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
+
+
 
 ## Maps and Diagnostics
 
