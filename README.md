@@ -26,6 +26,7 @@ or IoT sensor networks.
 - [MeshCore.co.uk](https://meshcore.co.uk/) - The homepage & official documentation
 - [The FAQ](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md)
 - [MeshCore Web Flasher](https://flasher.meshcore.co.uk/)
+- Video: How to get started with MeshCore off grid text messaging ( [youtube](https://youtu.be/t1qne8uJBAc) / [invidious](https://redirect.invidious.io/watch?v=t1qne8uJBAc) )
 
 ## Social Media
 
