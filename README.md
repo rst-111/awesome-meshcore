@@ -83,6 +83,7 @@ or IoT sensor networks.
 - [Meshcore Ireland](https://loraproject.ie/)
   - [Mayo Mesh](https://mayomesh.net/)
 - [Meshcore Netherlands ](https://www.localmesh.nl/en/)
+- [Meshcore Poland](https://lorameshcore.pl/)
 - [MeshCore Portugal](https://meshcore.pt/)
 - Spain
   - [Meshcore Catalonia (Spain)](https://meshcore.cat/)
@@ -90,16 +91,30 @@ or IoT sensor networks.
 - [MeshCore Switzerland](https://www.meshcore.ch/)
 - [MeshCore UK](https://meshcore.co.uk/)
 
-### USA
+### North America
 
-- [Austin, TX](https://www.austinmesh.org/)
-- [CT Mesh](https://ctmesh.org/)
-- [nyme.sh](https://nyme.sh/)
-- [West coast Mesh](https://www.wcmesh.com/)
+- Canada
+  - [Greater Ottowa Mesh](https://ottawamesh.ca/)
+  - [Puget Mesh](https://pugetmesh.org/)
+  - [Salish Mesh](https://salishmesh.net/)
+  - [West Cost Mesh](https://www.wcmesh.com/)
+- USA
+  - [Austin, TX](https://www.austinmesh.org/)
+  - [Bay Area Meshcore](https://bayareameshcore.org/)
+  - [CT Mesh](https://ctmesh.org/)
+  - [Idaho Mesh](https://idahomesh.org/)
+  - [nyme.sh](https://nyme.sh/)
+  - [West coast Mesh](https://www.wcmesh.com/)
+
+### Oceania
+
+- Australia
+  - [East Mesh](https://eastmesh.au/)
+
 
 ## Country / region Discord
 
-- [Most within main Discord](https://discord.gg/mt7NNZ86RS) Many regional channels exist within the Main Discord server
+- [Official Discord](https://discord.gg/mt7NNZ86RS) Many regional channels exist within this dscord server
 
 In addition there is:
 
