@@ -87,6 +87,7 @@ or IoT sensor networks.
 | [meshmapper.net](https://meshmapper.net) | Regionally segmented mapping tool for signal quality and noise floor data. |
 | [map.meshcore.dev](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [m3sh.uk](https://m3sh.uk) | Regional map portal showing the UK network topology as seen from Oxfordshire. |
+| [https://meshrf.net/](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
 
 ## Country / region Websites
 
