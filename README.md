@@ -146,6 +146,6 @@ In addition there is:
 - [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
 
 ### USA
-- [West coast Mesh Discord](discord.gg/wcmesh)
+- [West coast Mesh Discord](ttps://discord.gg/wcmesh)
 - [nyme.sh Discord](https://discord.nyme.sh/)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
