@@ -11,10 +11,11 @@ or IoT sensor networks.
 
 - [Official Resources](#official-resources)
 - [Social Media](#social-media)
-- [Open Source apps](#open-source-apps)
-- [Alternative Firmware](#alternative-firmware)
+- [Open Source apps](#free-and-open-source-apps)
+- [Open Source Firmware](#free-and-open-source-firmware)
 - [Bots](#bots)
 - [Maps and Diagnostics](#maps-and-diagnostics)
+- [Proprietary apps](#proprietary-apps)
 - [Country / region Websites](#country--region-websites)
 - [Country / region Discord](#country--region-discord)
 
