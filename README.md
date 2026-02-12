@@ -54,14 +54,7 @@ or IoT sensor networks.
 | [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 8 | Oct 2024 |
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
 
-## Proprietary apps
-
-| Project Name | Description | Stars | First Commit |
-| :--- | :--- | :---: | :--- |
-| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Proprietary Android application for position tracking and messaging over the MeshCore LoRa mesh network. | 10 | |
-
-
-## Alternative firmware
+## Free and Open Source firmware
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
@@ -81,7 +74,6 @@ or IoT sensor networks.
 | [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
 
 
-
 ## Maps and Diagnostics
 
 | Project / URL | Description |
@@ -95,6 +87,14 @@ or IoT sensor networks.
 | [map.meshcore.dev](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [m3sh.uk](https://m3sh.uk) | Regional map portal showing the UK network topology as seen from Oxfordshire. |
 | [https://meshrf.net/](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
+
+
+## Proprietary apps
+
+| Project Name | Description | Stars | First Commit |
+| :--- | :--- | :---: | :--- |
+| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Proprietary Android application for position tracking and messaging over the MeshCore LoRa mesh network. | 10 | |
+
 
 ## Country / region Websites
 
