@@ -70,7 +70,7 @@ or IoT sensor networks.
 
 | Project / URL | Connection | Description |
 | :--- | :--- | :--- |
-| [agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
+| [Agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
 | [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
 
@@ -87,7 +87,7 @@ or IoT sensor networks.
 | [meshmapper.net](https://meshmapper.net) | Regionally segmented mapping tool for signal quality and noise floor data. |
 | [map.meshcore.dev](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [m3sh.uk](https://m3sh.uk) | Regional map portal showing the UK network topology as seen from Oxfordshire. |
-| [https://meshrf.net/](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
+| [meshrf.net/](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
 
 
 ## Proprietary apps
