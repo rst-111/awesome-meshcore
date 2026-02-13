@@ -27,7 +27,7 @@ or IoT sensor networks.
 - [MeshCore.co.uk](https://meshcore.co.uk/) - The homepage & official documentation
 - [The FAQ](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md)
 - [MeshCore Web Flasher](https://flasher.meshcore.co.uk/)
-- Video: How to get started with MeshCore off grid text messaging ( [youtube](https://youtu.be/t1qne8uJBAc) / [invidious](https://redirect.invidious.io/watch?v=t1qne8uJBAc) )
+- [Video: How to get started ](https://redirect.invidious.io/watch?v=t1qne8uJBAc) with MeshCore (Also on [youtube](https://youtu.be/t1qne8uJBAc))
 
 ## Social Media
 
@@ -88,14 +88,14 @@ or IoT sensor networks.
 | [meshmapper.net](https://meshmapper.net) | Regionally segmented mapping tool for signal quality and noise floor data. |
 | [map.meshcore.dev](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [m3sh.uk](https://m3sh.uk) | Regional map portal showing the UK network topology as seen from Oxfordshire. |
-| [meshrf.net/](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
+| [meshrf.net](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
 
 
 ## Proprietary apps
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
-| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Proprietary Android application for position tracking and messaging over the MeshCore LoRa mesh network. | 10 | |
+| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Android application for position tracking and messaging | 10 | |
 
 
 ## Country / region Websites
