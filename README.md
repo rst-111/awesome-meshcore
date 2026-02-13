@@ -54,6 +54,7 @@ or IoT sensor networks.
 | [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 4 | Nov 2024 |
 | [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 8 | Oct 2024 |
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
+| [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 15 | Aug 2025 |
 
 ## Free and Open Source firmware
 
@@ -101,8 +102,15 @@ or IoT sensor networks.
 
 ### Europe
 
+- Czech Republic
+  - [Meshcore Czechia](https://meshcore.cz/)
+- Germany
+  - [Braunschweig Mesh](https://bsmesh.de/ )
+  - [Hamburg Mesh](https://hansemesh.de/) 
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
+- Hungary
+  - [Meshcore Hungary](https://mc868.hu/) 
 - Ireland
   - [Meshcore Ireland](https://loraproject.ie/)
   - [Mayo Mesh](https://mayomesh.net/)
@@ -114,6 +122,8 @@ or IoT sensor networks.
   - [Meshcore Poland](https://lorameshcore.pl/)
 - Portugal
   - [MeshCore Portugal](https://meshcore.pt/)
+- Slovak Republic
+  - [Meshcore Slovakia](https://mesh.om3kff.sk/) 
 - Spain
   - [Meshcore Catalonia (Spain)](https://meshcore.cat/)
   - [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
@@ -132,6 +142,7 @@ or IoT sensor networks.
 - USA
   - [Austin, TX](https://www.austinmesh.org/)
   - [Bay Area Meshcore](https://bayareameshcore.org/)
+  - [Boston Mesh](https://bostonme.sh/)
   - [CT Mesh](https://ctmesh.org/)
   - [Idaho Mesh](https://idahomesh.org/)
   - [nyme.sh](https://nyme.sh/)
@@ -153,6 +164,14 @@ In addition there is:
 - [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
 
 ### USA
-- [West coast Mesh Discord](https://discord.gg/wcmesh)
-- [nyme.sh Discord](https://discord.nyme.sh/)
+- [Boston Mesh Discord](https://discord.gg/MUVASVEEES)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
+- [nyme.sh Discord](https://discord.nyme.sh/)
+- [West coast Mesh Discord](https://discord.gg/wcmesh)
+
+### Oceania
+ - [Meshore Australia](https://discord.gg/2NxehNDGT)
+ - [Canberra Mesh Community](https://discord.gg/YeGhbsWhQD) (ATC and south NSW)
+
+
+
