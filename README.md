@@ -184,6 +184,7 @@ or IoT sensor networks.
 In addition there is:
 
 ### Europe
+- [MeshCore France Discord](https://discord.gg/GNAfMf7nVw)
 - [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
 
 ### USA
