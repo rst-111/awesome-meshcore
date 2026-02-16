@@ -56,6 +56,8 @@ or IoT sensor networks.
 | [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 8 | Oct 2024 |
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
 | [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 15 | Aug 2025 |
+| [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 7 | Dec 2025 |
+| [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 317 |   |
 
 ## Free and Open Source firmware
 
@@ -113,6 +115,8 @@ or IoT sensor networks.
 
 - Czech Republic
   - [Meshcore Czechia](https://meshcore.cz/)
+- France
+  - [Meshcore France](https://www.meshcore.fr/) 
 - Germany
   - [Braunschweig Mesh](https://bsmesh.de/ )
   - [Hamburg Mesh](https://hansemesh.de/) 
