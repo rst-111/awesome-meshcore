@@ -99,6 +99,7 @@ or IoT sensor networks.
 | [Agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
 | [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
+| [UK Mesh WX](https://github.com/hostyorkshire/UKmeshWX) |  | A Python utility for broadcasting UK weather data using real-time weather data from Open-Meteo API |
 
 
 
