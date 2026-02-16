@@ -56,6 +56,8 @@ or IoT sensor networks.
 | [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 8 | Oct 2024 |
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
 | [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 15 | Aug 2025 |
+| [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 7 | Dec 2025 |
+| [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 317 |   |
 
 ## Free and Open Source firmware
 
@@ -97,6 +99,7 @@ or IoT sensor networks.
 | [Agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
 | [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
+| [UK Mesh WX](https://github.com/hostyorkshire/UKmeshWX) |  | A Python utility for broadcasting UK weather data using real-time weather data from Open-Meteo API |
 
 
 
@@ -113,6 +116,8 @@ or IoT sensor networks.
 
 - Czech Republic
   - [Meshcore Czechia](https://meshcore.cz/)
+- France
+  - [Meshcore France](https://www.meshcore.fr/) 
 - Germany
   - [Braunschweig Mesh](https://bsmesh.de/ )
   - [Hamburg Mesh](https://hansemesh.de/) 
@@ -162,6 +167,7 @@ or IoT sensor networks.
   - [Idaho Mesh](https://idahomesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
+  - [Nevada Mesh](https://nvme.sh/)
   - [nyme.sh](https://nyme.sh/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
@@ -180,6 +186,7 @@ or IoT sensor networks.
 In addition there is:
 
 ### Europe
+- [MeshCore France Discord](https://discord.gg/GNAfMf7nVw)
 - [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
 
 ### USA
