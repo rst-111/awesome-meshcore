@@ -167,6 +167,7 @@ or IoT sensor networks.
   - [Idaho Mesh](https://idahomesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
+  - [Nevada Mesh](https://nvme.sh/)
   - [nyme.sh](https://nyme.sh/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
