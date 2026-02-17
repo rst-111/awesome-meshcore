@@ -58,6 +58,7 @@ or IoT sensor networks.
 | [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 15 | Aug 2025 |
 | [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 7 | Dec 2025 |
 | [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 317 |   |
+| [Tui-Meshcore](https://github.com/guax/tui-meshcore) | A TUI based meshcore client for linux hosts  | 8 | Feb 2026 |
 
 ## Free and Open Source firmware
 
