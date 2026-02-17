@@ -122,6 +122,7 @@ or IoT sensor networks.
   - [Braunschweig Mesh](https://bsmesh.de/ )
   - [Hamburg Mesh](https://hansemesh.de/) 
   - [Mesh Rheinland](https://www.meshrheinland.de/)
+  - [Taunus Mesh](https://www.taunus-mesh.de/)
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
   - [Ipswich Net](https://ipnt.uk/)
