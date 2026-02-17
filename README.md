@@ -164,16 +164,21 @@ or IoT sensor networks.
   - [Bay Area Meshcore](https://bayareameshcore.org/)
   - [Boston Mesh](https://bostonme.sh/)
   - [CT Mesh](https://ctmesh.org/)
+  - [Florida Mesh](https://mc.flmesh.us/)
   - [Idaho Mesh](https://idahomesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
   - [Nevada Mesh](https://nvme.sh/)
+  - [NomadMesh Alpujarras, Spain](https://nomadmesh.org/)
   - [nyme.sh](https://nyme.sh/)
+  - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
+  - [Spokane Mesh](https://www.spokanemesh.net/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
 ### Oceania
 
 - Australia
+  - [Brisbane and SEQ](https://wiki.mbug.com.au/en/Meshcore/Settings)
   - [East Mesh](https://eastmesh.au/)
   - [MeshCore Western Australia](https://perth.meshcore.au/)
   - [NSW Mesh](https://nswmesh.au/)
