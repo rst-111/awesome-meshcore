@@ -175,7 +175,7 @@ or IoT sensor networks.
   - [NomadMesh Alpujarras, Spain](https://nomadmesh.org/)
   - [nyme.sh](https://nyme.sh/)
   - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
-  - Silicon Valley 73 Mesh](https://73mesh.com/)
+  - [Silicon Valley 73 Mesh](https://73mesh.com/)
   - [Spokane Mesh](https://www.spokanemesh.net/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
