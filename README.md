@@ -58,6 +58,7 @@ or IoT sensor networks.
 | [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 15 | Aug 2025 |
 | [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 7 | Dec 2025 |
 | [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 317 |   |
+| [Tui-Meshcore](https://github.com/guax/tui-meshcore) | A TUI based meshcore client for linux hosts  | 8 | Feb 2026 |
 
 ## Free and Open Source firmware
 
@@ -122,6 +123,7 @@ or IoT sensor networks.
   - [Braunschweig Mesh](https://bsmesh.de/ )
   - [Hamburg Mesh](https://hansemesh.de/) 
   - [Mesh Rheinland](https://www.meshrheinland.de/)
+  - [Taunus Mesh](https://www.taunus-mesh.de/)
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
   - [Ipswich Net](https://ipnt.uk/)
@@ -164,16 +166,21 @@ or IoT sensor networks.
   - [Bay Area Meshcore](https://bayareameshcore.org/)
   - [Boston Mesh](https://bostonme.sh/)
   - [CT Mesh](https://ctmesh.org/)
+  - [Florida Mesh](https://mc.flmesh.us/)
   - [Idaho Mesh](https://idahomesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
   - [Nevada Mesh](https://nvme.sh/)
+  - [NomadMesh Alpujarras, Spain](https://nomadmesh.org/)
   - [nyme.sh](https://nyme.sh/)
+  - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
+  - [Spokane Mesh](https://www.spokanemesh.net/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
 ### Oceania
 
 - Australia
+  - [Brisbane and SEQ](https://wiki.mbug.com.au/en/Meshcore/Settings)
   - [East Mesh](https://eastmesh.au/)
   - [MeshCore Western Australia](https://perth.meshcore.au/)
   - [NSW Mesh](https://nswmesh.au/)
