@@ -171,9 +171,11 @@ or IoT sensor networks.
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
   - [Nevada Mesh](https://nvme.sh/)
+  - [North Dakota Mesh](https://nodakmesh.org/)
   - [NomadMesh Alpujarras, Spain](https://nomadmesh.org/)
   - [nyme.sh](https://nyme.sh/)
   - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
+  - [Silicon Valley 73 Mesh](https://73mesh.com/)
   - [Spokane Mesh](https://www.spokanemesh.net/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
