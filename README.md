@@ -173,7 +173,6 @@ or IoT sensor networks.
   - [Nevada Mesh](https://nvme.sh/)
   - [North Dakota Mesh](https://nodakmesh.org/)
   - [NomadMesh Alpujarras, Spain](https://nomadmesh.org/)
-  - [nyme.sh](https://nyme.sh/)
   - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
   - [Silicon Valley 73 Mesh](https://73mesh.com/)
   - [Spokane Mesh](https://www.spokanemesh.net/)
@@ -201,7 +200,6 @@ In addition there is:
 ### USA
 - [Boston Mesh Discord](https://discord.gg/MUVASVEEES)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
-- [nyme.sh Discord](https://discord.nyme.sh/)
 - [West coast Mesh Discord](https://discord.gg/wcmesh)
 
 ### Oceania
