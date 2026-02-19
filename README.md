@@ -59,6 +59,7 @@ or IoT sensor networks.
 | [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 7 | Dec 2025 |
 | [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 317 |   |
 | [Tui-Meshcore](https://github.com/guax/tui-meshcore) | A TUI based meshcore client for linux hosts  | 8 | Feb 2026 |
+| [MeshtasticWin](https://github.com/rvenes/MeshtasticWin) | Native Windows (WinUI 3) desktop client for Meshtastic | 8 Feb 2026 |
 
 ## Free and Open Source firmware
 
@@ -86,12 +87,16 @@ or IoT sensor networks.
 | [map.meshcore.dev](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [m3sh.uk](https://m3sh.uk) | Regional map portal showing the UK network topology as seen from Oxfordshire. |
 | [meshrf.net](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
+| [Mesh Utility](https://mesh-utility.org/) | Progressive Web App for mapping MeshCore LoRa coverage with optional cloud ingestion |
+| [MCSim](https://github.com/Brent-A/mcsim) | Simulation framework for MeshCore LoRa mesh networking firmware |
+
 
 ## Preinstalled devices
 | Product | Description |
 | :--- | :--- |
 | [T-Deck + (Lilygo)](https://lilygo.cc/products/t-deck-plus-1?variant=51618502017205) |  2.8" screen, Qwerty, GPS, ESP32-s3 |
 | [T-Lora pager (Lilygo)](https://lilygo.cc/products/t-lora-pager?pr_prod_strat=jac&pr_rec_id=0c4d477a3&pr_rec_pid=8223446597813&pr_ref_pid=8115572179125&pr_seq=uniform)|  2.3" screen, Qwerty, GPS, ESP32-s3 |
+
 
 ## Bots
 
