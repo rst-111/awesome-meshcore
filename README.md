@@ -112,6 +112,8 @@ or IoT sensor networks.
 
 ### Europe
 
+- Austria
+  - [Meshcore Austria](https://www.meshcore-austria.at/) 
 - Czech Republic
   - [Meshcore Czechia](https://meshcore.cz/)
 - France
