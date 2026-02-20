@@ -106,6 +106,7 @@ or IoT sensor networks.
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
 | [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
 | [UK Mesh WX](https://github.com/hostyorkshire/UKmeshWX) |  | A Python utility for broadcasting UK weather data using real-time weather data from Open-Meteo API |
+| [Meshing-Around](https://github.com/SpudGunMan/meshing-around) | | Mesh Bot for Network Testing and BBS Activities |
 
 
 ## Country / region Websites
