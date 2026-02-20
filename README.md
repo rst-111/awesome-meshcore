@@ -42,37 +42,36 @@ or IoT sensor networks.
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
-| [Meshcore Open](https://github.com/zjs81/meshcore-open) | Cross-platform FOSS client app for phones | 207 | Dec 2024 |
-| [Potato Mesh](https://github.com/l5yth/potato-mesh) | Federated web frontend to networks | 255 | Oct 2024 |
-| [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) | Home Assistant integration for MeshCore | 21 | Mar 2024 |
-| [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) | Web frontend for Meshcore stats | 25 | Dec 2024 |
-| [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) | Repeater Daemon in Python (pymc_core) | 18 | Oct 2024 |
-| [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) | Desktop application for MeshCore | 12 | Jan 2025 |
-| [pyMC Console](https://github.com/dmduran12/pymc_console-dist) | Real-time web dashboard for repeaters | 9 | Dec 2024 |
-| [PocketMesh](https://github.com/Avi0n/PocketMesh) | Native MeshCore client for iOS & iPadOS | 10 | Nov 2024 |
-| [MeshFirmware](https://github.com/mikecarper/meshfirmware) | Windows/Linux USB firmware updater | 6 | Jan 2025 |
-| [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) | Desktop Linux GUI via BLE | 5 | Sep 2024 |
-| [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 4 | Nov 2024 |
-| [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 8 | Oct 2024 |
-| [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
-| [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 15 | Aug 2025 |
-| [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 7 | Dec 2025 |
-| [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 317 |   |
-| [Tui-Meshcore](https://github.com/guax/tui-meshcore) | A TUI based meshcore client for linux hosts  | 8 | Feb 2026 |
-| [MeshtasticWin](https://github.com/rvenes/MeshtasticWin) | Native Windows (WinUI 3) desktop client for Meshtastic | 8 Feb 2026 |
+| [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 323 | Sep 2025 |
+| [Potato Mesh](https://github.com/l5yth/potato-mesh) | Federated web frontend to networks | 262 | Sep 2025 |
+| [Meshcore Open](https://github.com/zjs81/meshcore-open) | Cross-platform FOSS client app for phones | 252 | Dec 2025 |
+| [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) | Home Assistant integration for MeshCore | 113 | Mar 2025 |
+| [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) | Repeater Daemon in Python (pymc_core) | 112 | Oct 2025 |
+| [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 62 | Jan 2026 |
+| [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 57 | Jan 2026 |
+| [MeshFirmware](https://github.com/mikecarper/meshfirmware) | Windows/Linux USB firmware updater | 45 | Feb 2025 |
+| [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 38 | Dec 2025 |
+| [PocketMesh](https://github.com/Avi0n/PocketMesh) | Native MeshCore client for iOS & iPadOS | 33 | Dec 2025 |
+| [MeshCore MQTT Live Map](https://github.com/yellowcooln/meshcore-mqtt-live-map) | Real-time live map for MeshCore using MQTT packet/log topics. | 28 | Dec 2025 |
+| [pyMC Console](https://github.com/dmduran12/pymc_console-dist) | Real-time web dashboard for repeaters | 26 | Dec 2025 |
+| [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) | Web frontend for Meshcore stats | 23 | Dec 2025 |
+| [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 18 | Aug 2025 |
+| [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) | Desktop application for MeshCore | 16 | Jan 2026 |
+| [Tui-Meshcore](https://github.com/guax/tui-meshcore) | A TUI based meshcore client for linux hosts | 9 | Feb 2026 |
+| [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 8 | Dec 2025 |
+| [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) | Desktop Linux GUI via BLE | 6 | Feb 2026 |
 
 ## Free and Open Source firmware
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
-| [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 64 | Nov 2024 |
-| [Lunacore](https://github.com/STCisGOOD/lunarcore) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum)  | 114 | Oct 2024 |
-| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Cardputer ADV Specialized UI  | 86 | Jan 2025 |
-| [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Cardputer ADV Specialized UI   | 15 | Feb 2026 |
-| [Meck](https://github.com/pelgraine/Meck) | T-Deck pro | 3 | Nov 2025|
-| [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 2 | Oct 2023 |
-| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) |Wio Tracker L1 Pro Custom firmware  | 42 | July 2025 |
-
+| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Cardputer ADV Specialized UI | 59 | Jan 2026 |
+| [Lunacore](https://github.com/STCisGOOD/lunarcore) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 2026 |
+| [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 2026 |
+| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Wio Tracker L1 Pro Custom firmware | 28 | Jan 2026 |
+| [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Cardputer ADV Specialized UI | 17 | Feb 2026 |
+| [Meck](https://github.com/pelgraine/Meck) | T-Deck pro | 3 | Jan 2025 |
+| [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 3 | Feb 2026 |
 
 ## Maps and Diagnostics
 
@@ -113,7 +112,8 @@ or IoT sensor networks.
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
-| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Android application for position tracking and messaging | 10 | |
+| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Android application for position tracking and messaging | 11 | Jan 2026 |
+
 
 
 ## Country / region Websites
