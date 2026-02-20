@@ -50,7 +50,7 @@ or IoT sensor networks.
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 62 | Jan 26 |
 | [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 57 | Jan 26 |
 | [MeshFirmware](https://github.com/mikecarper/meshfirmware) | Windows/Linux USB firmware updater | 45 | Feb 25 |
-| [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 38 | Dec 2025 |
+| [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 38 | Dec 25 |
 | [PocketMesh](https://github.com/Avi0n/PocketMesh) | Native MeshCore client for iOS & iPadOS | 33 | Dec 25 |
 | [MeshCore MQTT Live Map](https://github.com/yellowcooln/meshcore-mqtt-live-map) | Real-time live map for MeshCore using MQTT packet/log topics. | 28 | Dec 25 |
 | [pyMC Console](https://github.com/dmduran12/pymc_console-dist) | Real-time web dashboard for repeaters | 26 | Dec 25 |
