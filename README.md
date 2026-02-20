@@ -42,9 +42,9 @@ or IoT sensor networks.
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
+| [Meshcore Open](https://github.com/zjs81/meshcore-open) | Cross-platform FOSS client app for phones | 252 | Dec 2025 |
 | [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 323 | Sep 2025 |
 | [Potato Mesh](https://github.com/l5yth/potato-mesh) | Federated web frontend to networks | 262 | Sep 2025 |
-| [Meshcore Open](https://github.com/zjs81/meshcore-open) | Cross-platform FOSS client app for phones | 252 | Dec 2025 |
 | [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) | Home Assistant integration for MeshCore | 113 | Mar 2025 |
 | [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) | Repeater Daemon in Python (pymc_core) | 112 | Oct 2025 |
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 62 | Jan 2026 |
@@ -57,6 +57,7 @@ or IoT sensor networks.
 | [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) | Web frontend for Meshcore stats | 23 | Dec 2025 |
 | [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 18 | Aug 2025 |
 | [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) | Desktop application for MeshCore | 16 | Jan 2026 |
+| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Android application for position tracking and messaging | 11 | Jan 2026 |
 | [Tui-Meshcore](https://github.com/guax/tui-meshcore) | A TUI based meshcore client for linux hosts | 9 | Feb 2026 |
 | [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 8 | Dec 2025 |
 | [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) | Desktop Linux GUI via BLE | 6 | Feb 2026 |
@@ -105,15 +106,6 @@ or IoT sensor networks.
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
 | [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
 | [UK Mesh WX](https://github.com/hostyorkshire/UKmeshWX) |  | A Python utility for broadcasting UK weather data using real-time weather data from Open-Meteo API |
-
-
-
-## Proprietary apps
-
-| Project Name | Description | Stars | First Commit |
-| :--- | :--- | :---: | :--- |
-| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Android application for position tracking and messaging | 11 | Jan 2026 |
-
 
 
 ## Country / region Websites
