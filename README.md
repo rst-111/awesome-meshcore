@@ -66,11 +66,11 @@ or IoT sensor networks.
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
-| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Cardputer ADV Specialized UI | 59 | Jan 2026 |
-| [Lunacore](https://github.com/STCisGOOD/lunarcore) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 2026 |
-| [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 2026 |
-| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Wio Tracker L1 Pro Custom firmware | 28 | Jan 2026 |
-| [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Cardputer ADV Specialized UI | 17 | Feb 2026 |
+| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Cardputer ADV Specialized UI | 59 | Jan 26 |
+| [Lunacore](https://github.com/STCisGOOD/lunarcore) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 26 |
+| [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 26 |
+| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Wio Tracker L1 Pro Custom firmware | 28 | Jan 26 |
+| [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Cardputer ADV Specialized UI | 17 | Feb 26 |
 | [Meck](https://github.com/pelgraine/Meck) | T-Deck pro | 3 | Jan 2025 |
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 3 | Feb 2026 |
 
