@@ -41,7 +41,7 @@ or IoT sensor networks.
 
 | Project Name | Description | First Commit |
 | :--- | :--- | :---: | 
-| [Meshcore Open](https://github.com/zjs81/meshcore-open) ![GitHub Repo stars](https://img.shields.io/github/stars/zjs81/meshcore-open?style=social) | Cross-platform FOSS client app for phones | | Dec 25 |
+| [Meshcore Open](https://github.com/zjs81/meshcore-open) ![GitHub Repo stars](https://img.shields.io/github/stars/zjs81/meshcore-open?style=social) | Cross-platform FOSS client app for phones |  Dec 25 |
 | [MeshMonitor](https://github.com/Yeraze/meshmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeraze/meshmonitor?style=social)  | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP |  Sep 25 |
 | [Potato Mesh](https://github.com/l5yth/potato-mesh) ![GitHub Repo stars](https://img.shields.io/github/stars/l5yth/potato-mesh?style=social) | Federated web frontend to networks |  Sep 25 |
 | [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) ![GitHub Repo stars](https://img.shields.io/github/stars/meshcore-dev/meshcore-ha?style=social) | Home Assistant integration for MeshCore | Mar 25 |
