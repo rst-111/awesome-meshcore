@@ -16,7 +16,6 @@ or IoT sensor networks.
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Preinstalled devices](#preinstalled-devices)
 - [Bots](#bots)
-- [Proprietary apps](#proprietary-apps)
 - [Country / region Websites](#country--region-websites)
 - [Country / region Discord](#country--region-discord)
 
@@ -40,27 +39,27 @@ or IoT sensor networks.
 
 ## Free and Open Source apps
 
-| Project Name | Description | Stars | First Commit |
-| :--- | :--- | :---: | :--- |
-| [Meshcore Open](https://github.com/zjs81/meshcore-open) | Cross-platform FOSS client app for phones | ![GitHub Repo stars](https://img.shields.io/github/stars/zjs81/meshcore-open?style=social)| Dec 25 |
-| [MeshMonitor](https://github.com/Yeraze/meshmonitor) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | 323 | Sep 25 |
-| [Potato Mesh](https://github.com/l5yth/potato-mesh) | Federated web frontend to networks | 262 | Sep 25 |
-| [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) | Home Assistant integration for MeshCore | 113 | Mar 25 |
-| [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) | Repeater Daemon in Python (pymc_core) | 112 | Oct 25 |
-| [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 62 | Jan 26 |
-| [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 57 | Jan 26 |
-| [MeshFirmware](https://github.com/mikecarper/meshfirmware) | Windows/Linux USB firmware updater | 45 | Feb 25 |
-| [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 38 | Dec 25 |
-| [PocketMesh](https://github.com/Avi0n/PocketMesh) | Native MeshCore client for iOS & iPadOS | 33 | Dec 25 |
-| [MeshCore MQTT Live Map](https://github.com/yellowcooln/meshcore-mqtt-live-map) | Real-time live map for MeshCore using MQTT packet/log topics. | 28 | Dec 25 |
-| [pyMC Console](https://github.com/dmduran12/pymc_console-dist) | Real-time web dashboard for repeaters | 26 | Dec 25 |
-| [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) | Web frontend for Meshcore stats | 23 | Dec 25 |
-| [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) | web application for generating keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) | 18 | Aug 25 |
-| [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) | Desktop application for MeshCore | 16 | Jan 26 |
-| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Android application for position tracking and messaging | 11 | Jan 26 |
-| [Tui-Meshcore](https://github.com/guax/tui-meshcore) | A TUI based meshcore client for linux hosts | 9 | Feb 26 |
-| [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) | updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes | 8 | Dec 25 |
-| [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) | Desktop Linux GUI via BLE | 6 | Feb 26 |
+| Project Name | Description | First Commit |
+| :--- | :--- | :---: | 
+| [Meshcore Open](https://github.com/zjs81/meshcore-open) ![GitHub Repo stars](https://img.shields.io/github/stars/zjs81/meshcore-open?style=social) | Cross-platform FOSS client app for phones | | Dec 25 |
+| [MeshMonitor](https://github.com/Yeraze/meshmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeraze/meshmonitor?style=social)  | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP |  Sep 25 |
+| [Potato Mesh](https://github.com/l5yth/potato-mesh) ![GitHub Repo stars](https://img.shields.io/github/stars/l5yth/potato-mesh?style=social) | Federated web frontend to networks |  Sep 25 |
+| [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) ![GitHub Repo stars](https://img.shields.io/github/stars/meshcore-dev/meshcore-ha?style=social) | Home Assistant integration for MeshCore | Mar 25 |
+| [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) ![GitHub Repo stars](https://img.shields.io/github/stars/rightup/pyMC_Repeater?style=social)  | Repeater Daemon in Python (pymc_core) |  Oct 25 |
+| [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/jkingsman/Remote-Terminal-for-MeshCore?style=social)  | Server and web-frontend for static companions |  Jan 26 |
+| [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) ![GitHub Repo stars](https://img.shields.io/github/stars/mintylinux/Meshcore-Wardrive-Android?style=social)  | Android wardriving and mapping app | Jan 26 |
+| [MeshFirmware](https://github.com/mikecarper/meshfirmware) ![GitHub Repo stars](https://img.shields.io/github/stars/mikecarper/meshfirmware?style=social)  | Windows/Linux USB firmware updater |  Feb 25 |
+| [MC-WebUI](https://github.com/MarekWo/mc-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/MarekWo/mc-webui?style=social)  | WebUI for meshcore-cli |  Dec 25 |
+| [PocketMesh](https://github.com/Avi0n/PocketMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/Avi0n/PocketMesh?style=social)  | Native MeshCore client for iOS & iPadOS |  Dec 25 |
+| [MeshCore MQTT Live Map](https://github.com/yellowcooln/meshcore-mqtt-live-map) ![GitHub Repo stars](https://img.shields.io/github/stars/yellowcooln/meshcore-mqtt-live-map?style=social) | Real-time live map for MeshCore using MQTT packet/log topics. |  Dec 25 |
+| [pyMC Console](https://github.com/dmduran12/pymc_console-dist) ![GitHub Repo stars](https://img.shields.io/github/stars/dmduran12/pymc_console-dist?style=social)  | Real-time web dashboard for repeaters |  Dec 25 |
+| [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) ![GitHub Repo stars](https://img.shields.io/github/stars/ipnet-mesh/meshcore-hub?style=social)  | Web frontend for Meshcore stats |  Dec 25 |
+| [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) ![GitHub Repo stars](https://img.shields.io/github/stars/bliksemlabs/PyMeshCoreGUI?style=social)  | Generate keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) |  Aug 25 |
+| [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) ![GitHub Repo stars](https://img.shields.io/github/stars/bliksemlabs/PyMeshCoreGUI?style=social)  | Desktop application for MeshCore | Jan 26 |
+| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) ![GitHub Repo stars](https://img.shields.io/github/stars/tmacinc/meshcore-team-alpha?style=social)  | Android application for position tracking and messaging | Jan 26 |
+| [Tui-Meshcore](https://github.com/guax/tui-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/guax/tui-meshcore?style=social)  | A TUI based meshcore client for linux hosts |  Feb 26 |
+| [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) ![GitHub Repo stars](https://img.shields.io/github/stars/lucidnx/meshcore-drone-updater?style=social)  | updates meshcore nodes via drones to upgrade firmware on physically unreachable nodes |  Dec 25 |
+| [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) ![GitHub Repo stars](https://img.shields.io/github/stars/pe1hvh/meshcore-gui?style=social)  | Desktop Linux GUI via BLE |  Feb 26 |
 
 ## Free and Open Source firmware
 
