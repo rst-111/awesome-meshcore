@@ -72,7 +72,6 @@ or IoT sensor networks.
 | [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Cardputer ADV Specialized UI | 17 | Feb 26 |
 | [Meck](https://github.com/pelgraine/Meck) | T-Deck pro | 3 | Jan 2025 |
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 3 | Feb 2026 |
-| [Aurora](https://forge.hackers.town/Wrewdison/Aurora) | Open source firmware for the Lilygo T-Deck, as an alternative to Ripple | 1 | Jan 26 | 
 
 
 ## Maps and Diagnostics
