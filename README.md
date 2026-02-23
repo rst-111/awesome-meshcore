@@ -65,7 +65,7 @@ or IoT sensor networks.
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
-| [Autora](https://forge.hackers.town/Wrewdison/Aurora) | Open source firmware for the Lilygo T-Deck, as an alternative to Ripple | 1 | Jen 26 | 
+| [Aurora](https://forge.hackers.town/Wrewdison/Aurora) | Open source firmware for the Lilygo T-Deck, as an alternative to Ripple | 1 | Jen 26 | 
 | [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Cardputer ADV Specialized UI | 59 | Jan 26 |
 | [Lunacore](https://github.com/STCisGOOD/lunarcore) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 26 |
 | [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 26 |
