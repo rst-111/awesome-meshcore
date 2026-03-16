@@ -91,6 +91,7 @@ or IoT sensor networks.
 | [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) ![GitHub Repo stars](https://img.shields.io/github/stars/ALLFATHER-BV/meshcomod?style=social) | MeshCore addon for Heltec WiFi LoRa 32 V4 | Feb 26 |
 | [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | Jan 26 |
 | [Meshcore custom firmware builder](https://github.com/christian45410/meshcore-cfw-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/christian45410/meshcore-cfw-builder?style=social) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | Mar 26 |
+| [MeshcoreGRID](https://github.com/Quark1980/MeshcoreGRID)  ![GitHub Repo stars](https://img.shields.io/github/stars/Quark1980/MeshcoreGRID?style=social) | MeshcoreGRID is a touch-first handheld firmware built on MeshCore | Jan 26 |
 
 
 ## Software Libraries
