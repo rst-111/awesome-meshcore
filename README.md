@@ -200,6 +200,7 @@ or IoT sensor networks.
   - [Austin, TX](https://www.austinmesh.org/)
   - [Bay Area Meshcore](https://bayareameshcore.org/)
   - [Boston Mesh](https://bostonme.sh/)
+  - [Colorado Mesh](https://coloradomesh.org/)
   - [CT Mesh](https://ctmesh.org/)
   - [Florida Mesh](https://mc.flmesh.us/)
   - [Idaho Mesh](https://idahomesh.org/)
