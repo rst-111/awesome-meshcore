@@ -26,6 +26,7 @@ or IoT sensor networks.
 ## Official Resources
 
 - [MeshCore.co.uk](https://meshcore.co.uk/) - The homepage & official documentation
+- [MeshCore.io](https://meshcore.io/) - The new homepage & official documentation
 - [The FAQ](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md)
 - [MeshCore Web Flasher](https://flasher.meshcore.co.uk/)
 - [Official Discord](https://discord.gg/ZVH2ujy9ex)
