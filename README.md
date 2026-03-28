@@ -111,6 +111,7 @@ or IoT sensor networks.
 | :--- | :--- | :---: |
 | [MeshCoreKmp](https://github.com/Wavesonics/MeshCoreKmp) ![GitHub Repo stars](https://img.shields.io/github/stars/Wavesonics/MeshCoreKmp?style=social) | A Kotlin Multiplatform library for connecting to and communicating with MeshCore companion nodes. | Feb 26 |
 | [Meshcore Client](https://github.com/dz0ny/meshcore_client) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore_client?style=social) | Flutter/Dart package implementing the MeshCore BLE companion protocol | Feb 26 |
+| [Meshcore Decoder](https://github.com/michaelhart/meshcore-decoder) ![GitHub Repo stars](https://img.shields.io/github/stars/michaelhart/meshcore-decoder?style=social) | A TypeScript library for decoding MeshCore mesh networking packets with full cryptographic support.  | Sep 25  |
 
 
 ## Maps and Diagnostics
