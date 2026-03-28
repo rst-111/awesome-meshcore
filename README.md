@@ -79,6 +79,7 @@ or IoT sensor networks.
 | [Yours](https://github.com/STCisGOOD/yours-x-lunarcore)  ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/yours-x-lunarcore?style=social) | Encrypted P2P messaging over LoRa mesh, using Lunacore firmware | Mar 26 | 
 | [MeshOS for Android](https://github.com/andymux/meshos-releases) ![GitHub Repo stars](https://img.shields.io/github/stars/andymux/meshos-releases?style=social) | MeshOS for Android - An official MeshCore App  | Mar 26  | 
 | [Meshy](https://codeberg.org/sesivany/meshy) | a GTK4/libadwaita client for MeshCore. The goal, to provide the best Linux experience | Mar 26 | 
+| [Roadstr](https://github.com/jooray/roadstr) ![GitHub Repo stars](https://img.shields.io/github/stars/jooray/roadstr?style=social) | Decentralized road-event reporting using Nostr and MeshCore. Web and Android - "Waze without the centralized tracking" | Mar 26 |
 
 ## Free and Open Source firmware
 
