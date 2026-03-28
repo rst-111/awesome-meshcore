@@ -176,7 +176,8 @@ or IoT sensor networks.
 - Finland
   - [Mesh Pirkanmaa](https://meshpirkanmaa.org/) (Tampere region, including Nokia, Pirkkala, and Ylöjärvi) 
 - France
-  - [Meshcore France](https://www.meshcore.fr/) 
+  - [Meshcore France](https://www.meshcore.fr/)
+  - [Île-de-France Mesh](https://wiki.mesh-idf.fr)
 - Germany
   - German MeshCore wiki: [meshcore-de.fyi](https://meshcore-de.fyi/)
   - [BSmesh](https://bsmesh.de/) (area surrounding Braunschweig, includes several cities)
