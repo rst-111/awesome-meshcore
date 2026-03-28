@@ -238,6 +238,7 @@ or IoT sensor networks.
   - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
   - [Silicon Valley 73 Mesh](https://73mesh.com/)
   - [Spokane Mesh](https://www.spokanemesh.net/)
+  - [TennMesh](https://tennmesh.com/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
 ### Oceania
