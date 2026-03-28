@@ -254,6 +254,7 @@ or IoT sensor networks.
   - [Brisbane and SEQ](https://wiki.mbug.com.au/en/Meshcore/Settings)
   - [East Mesh](https://eastmesh.au/)
   - [MeshCore Western Australia](https://perth.meshcore.au/)
+  - [Mesh Sydney](https://meshsydney.com/)
   - [NSW Mesh](https://nswmesh.au/)
 
 
