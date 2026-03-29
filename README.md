@@ -108,7 +108,7 @@ or IoT sensor networks.
 | [Meshcore custom firmware builder](https://github.com/christian45410/meshcore-cfw-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/christian45410/meshcore-cfw-builder?style=social) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | Mar 26 |
 | [MeshcoreGRID](https://github.com/Quark1980/MeshcoreGRID)  ![GitHub Repo stars](https://img.shields.io/github/stars/Quark1980/MeshcoreGRID?style=social) | MeshcoreGRID is a touch-first handheld firmware built on MeshCore | Jan 26 |
 | [weebl2000's MeshCore Firmware Builder](https://mcimages.weebl.me/) | Build and download firmware images for your device.|  |
-
+| [Heltec V4.2 Multi-Boot Selector](https://github.com/Finmacjones/HeltecV4.2MultiBoot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Finmacjones/HeltecV4.2MultiBoot?style=social) | Multi-firmware boot selector for Heltec WiFi LoRa 32 V4.2 (ESP32-S3) | Mar 26 |
 
 ## Software Libraries
 
