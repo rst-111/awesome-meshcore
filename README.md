@@ -43,6 +43,7 @@ or IoT sensor networks.
 - [Video: Using the official Meshcore App (the comms channel)](https://redirect.invidious.io/watch?v=PeThXmxLE4k) (Also on [youtube](https://youtu.be/PeThXmxLE4k))
 - [LitBomb's Meshcore FAQ](https://github.com/LitBomb/MeshCore-FAQ) (English and German)
 - [Meshcore region info](https://github.com/luckystriike22/meshcore_region_info)
+- [MeshCore OTA Firmware Update Guide](https://github.com/Mraanderson/meshcore-ota)
 
 
 ## Free and Open Source apps
