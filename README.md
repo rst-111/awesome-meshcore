@@ -243,6 +243,8 @@ or IoT sensor networks.
   - [CT Mesh](https://ctmesh.org/)
   - [Florida Mesh](https://mc.flmesh.us/)
   - [Idaho Mesh](https://idahomesh.org/)
+  - [Kentucky Mesh](https://mesh-ky.org/)
+  - [Lexington, KY Mesh](https://meshcorelexington.com/)
   - [Louisiana Mesh](https://louisianamesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
