@@ -142,6 +142,7 @@ or IoT sensor networks.
 | [MeshCore Wall of Shame](https://advertrank.com/) | Who's flooding the mesh today? a lighthearted look at mesh traffic, not a witch hunt. | 
 | [CoreScope](https://github.com/Kpa-clawbot/CoreScope) | network analyzer — live packet visualization, VCR replay, channel decryption, node health, analytics |
 | [Map Tiles Downloader](https://github.com/tekk/map-tiles-downloader) | This app helps you fetch map tiles quickly, for offline use with meshcore and other mesh networks |
+| [uMap "Meshcore Regionen Deutschland"](https://umap.openstreetmap.de/de/map/meshcore-regionen-deutschland_122026#6/51.896834/9.843750) | Editable map of regions, mainly Germany. (Please also read [this context info](https://meshcore-de.fyi/meshcore:allgemeines:regions:reale-regions-in-repeatern).) |
 
 
 ## Preinstalled devices
