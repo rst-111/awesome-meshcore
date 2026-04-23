@@ -87,6 +87,7 @@ or IoT sensor networks.
 | [Meshcute](https://github.com/MadScientistCH/meshcute) ![GitHub Repo stars](https://img.shields.io/github/stars/MadScientistCH/meshcute?style=social) | Meshcute is a universal toolbox for what you need when having a Meshcore or Meshtastic meeting | ![GitHub last commit](https://img.shields.io/github/last-commit/MadScientistCH/meshcute) |
 | [Domoticz-MeshCore-Plugin](https://github.com/galadril/Domoticz-MeshCore-Plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/galadril/Domoticz-MeshCore-Plugin?style=social) | Domoticz plugin for MeshCore | ![GitHub last commit](https://img.shields.io/github/last-commit/galadril/Domoticz-MeshCore-Plugin) |
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | ![GitHub last commit](https://img.shields.io/github/last-commit/g-d-j-evans/MeschaTUI) |
+| [MeshCore64](https://github.com/swannman/meshcore64) ![GitHub Repo stars](https://img.shields.io/github/stars/swannman/meshcore64?style=social) | MeshCore chat client for the Commodore 64, connecting via SwiftLink RS-232 to a companion device | ![GitHub last commit](https://img.shields.io/github/last-commit/swannman/meshcore64) |
 
 ## Free and Open Source firmware
 
