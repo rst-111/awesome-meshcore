@@ -32,7 +32,6 @@ or IoT sensor networks.
 - [MeshCore Web Flasher](https://flasher.meshcore.co.uk/)
 - [Reddit r/MeshCore](https://www.reddit.com/r/meshcore/)
 - [Facebook](https://www.facebook.com/MeshCoreOfficial)
-- [YouTube](https://www.youtube.com/@meshcore-official)
 - [Video: How to get started ](https://redirect.invidious.io/watch?v=t1qne8uJBAc) with MeshCore (Also on [youtube](https://youtu.be/t1qne8uJBAc))
 - [Current state of Meshcore encryption](https://github.com/meshcore-dev/MeshCore/issues/259)
 
@@ -40,6 +39,7 @@ or IoT sensor networks.
 
 - [MeshCore.co.uk](https://meshcore.co.uk/) - The original homepage
 - [Original Discord](https://discord.gg/ZVH2ujy9ex)
+- [YouTube](https://www.youtube.com/@meshcore-official)
 - [YouTube - Andy Kirby](https://www.youtube.com/@andykirby) (Meshos developer)
 - [Video: MeshCore Companion Flashing (the comms channel)](https://redirect.invidious.io/watch?v=ems9_XvdPX8) (Also on [youtube](https://youtu.be/ems9_XvdPX8))
 - [Video: Using the official Meshcore App (the comms channel)](https://redirect.invidious.io/watch?v=PeThXmxLE4k) (Also on [youtube](https://youtu.be/PeThXmxLE4k))
