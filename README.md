@@ -309,7 +309,7 @@ In addition, there are e.g.:
 - [Discord](https://discord.com/channels/1343693475589263471/1345472768669384714)
 
 #### Norway
-- [Discord](https://discord.gg/BHCVyEBd)
+- [Discord](https://discord.gg/ghVR7VGqgB)
 
 #### Russia
 - [Moscow Telegram group](https://t.me/meshcoremoscow)
