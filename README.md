@@ -31,18 +31,18 @@ or IoT sensor networks.
 - [Official Discord](https://discord.gg/drBQmRJwQR)
 - [MeshCore Web Flasher](https://flasher.meshcore.io)
 - [Reddit r/MeshCore](https://www.reddit.com/r/meshcore/)
-- [Video: How to get started ](https://redirect.invidious.io/watch?v=t1qne8uJBAc) with MeshCore (Also on [youtube](https://youtu.be/t1qne8uJBAc))
 - [Facebook group](https://www.facebook.com/groups/meshcore)
 - [Current state of Meshcore encryption](https://github.com/meshcore-dev/MeshCore/issues/259)
 
 ## Other Resources
 
 - [MeshCore Official Facebook Group](https://www.facebook.com/groups/meshcore)
-- [Video: MeshCore Companion Flashing (the comms channel)](https://redirect.invidious.io/watch?v=ems9_XvdPX8) (Also on [youtube](https://youtu.be/ems9_XvdPX8))
-- [Video: Using the official Meshcore App (the comms channel)](https://redirect.invidious.io/watch?v=PeThXmxLE4k) (Also on [youtube](https://youtu.be/PeThXmxLE4k))
+- [Video: MeshCore Quickstart (the comms channel)](https://redirect.invidious.io/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9) (Also on [youtube](https://youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9))
+- [Video: How to get started ](https://redirect.invidious.io/watch?v=t1qne8uJBAc) with MeshCore (Also on [youtube](https://youtu.be/t1qne8uJBAc))
 - [LitBomb's Meshcore FAQ](https://github.com/LitBomb/MeshCore-FAQ) (English and German)
 - [Meshcore region info](https://github.com/luckystriike22/meshcore_region_info)
 - [MeshCore OTA Firmware Update Guide](https://github.com/Mraanderson/meshcore-ota)
+- [Why MeshCore needs regions - explained simply](https://kiekr.app/why-regions)
 
 ## Free and Open Source apps
 
