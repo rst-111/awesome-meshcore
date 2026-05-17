@@ -185,6 +185,11 @@ or IoT sensor networks.
 ### Europe
 - Austria
    - [Meshcore Austria](https://www.meshcore-austria.at/doku.php?id=start)
+- Belgium
+  - [Radio-Actief MeshCore Community](https://meshcore.radio-actief.be/) (mainly Flanders and Brussels area)
+  - [Radio-Actief MeshCore Documentation](https://docs.radio-actief.be/nl/MeshCore)
+  - [#BEmesh Map, Stats & Configurator](https://meshmap.radio-actief.be/)
+  - [Belgian Mesh MQTT Analyzer](https://analyzer.on8ar.eu/#/live)
 - Czech Republic
   - [Meshcore Czechia](https://meshcore.cz/)
 - Finland
@@ -293,6 +298,9 @@ or IoT sensor networks.
 In addition, there are e.g.:
 
 ### Europe
+
+#### Belgium
+- [Radio-Actief MeshCore Discord](https://discord.gg/kvybAgqnhD) (mainly Dutch/Flemish speaking)
 
 #### France
 - [MeshCore France Discord](https://discord.gg/GNAfMf7nVw)
