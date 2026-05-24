@@ -272,6 +272,7 @@ or IoT sensor networks.
   - [Lexington, KY Mesh](https://meshcorelexington.com/)
   - [Louisiana Mesh](https://louisianamesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
+  - [Missouri Mesh](https://missourimesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
   - [Nevada Mesh](https://nvme.sh/)
   - [North Dakota Mesh](https://nodakmesh.org/)
@@ -340,6 +341,7 @@ In addition, there are e.g.:
 - [CascadiaMesh Discord](https://discord.gg/m9yarB3p2E)
 - [Chicagoland Mesh Discord](https://chimesh.org/discord)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
+- [Missouri Mesh Discord](https://missourimesh.org/discord)
 - [Spokane Mesh Discord](https://discord.gg/VzFcvSxxyr)
 - [West coast Mesh Discord](https://discord.gg/wcmesh)
 
