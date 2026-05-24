@@ -50,7 +50,6 @@ or IoT sensor networks.
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: | 
 | [Meshcore Open](https://github.com/zjs81/meshcore-open) ![GitHub Repo stars](https://img.shields.io/github/stars/zjs81/meshcore-open?style=social) | Client app (Flutter) for phones and desktop computers (Android, iOS, GNU/Linux, Windows, macOS) | ![GitHub last commit](https://img.shields.io/github/last-commit/zjs81/meshcore-open) |
-| [MeshCore Companion Web App (Dockerized)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social) | Dockerized self-hosted deployment of the [official Companion web app](https://app.meshcore.io/); image `ghcr.io/axistem-dev/meshcore-web` | ![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) |
 | [MeshMonitor](https://github.com/Yeraze/meshmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeraze/meshmonitor?style=social) | Web tool for monitoring a Meshtastic and Meshcore Node Deployment over TCP/HTTP | ![GitHub last commit](https://img.shields.io/github/last-commit/Yeraze/meshmonitor) |
 | [Potato Mesh](https://github.com/l5yth/potato-mesh) ![GitHub Repo stars](https://img.shields.io/github/stars/l5yth/potato-mesh?style=social) | Federated web frontend to networks | ![GitHub last commit](https://img.shields.io/github/last-commit/l5yth/potato-mesh) |
 | [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) ![GitHub Repo stars](https://img.shields.io/github/stars/meshcore-dev/meshcore-ha?style=social) | Home Assistant integration for MeshCore | ![GitHub last commit](https://img.shields.io/github/last-commit/meshcore-dev/meshcore-ha) |
@@ -86,6 +85,7 @@ or IoT sensor networks.
 | [Domoticz-MeshCore-Plugin](https://github.com/galadril/Domoticz-MeshCore-Plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/galadril/Domoticz-MeshCore-Plugin?style=social) | Domoticz plugin for MeshCore | ![GitHub last commit](https://img.shields.io/github/last-commit/galadril/Domoticz-MeshCore-Plugin) |
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | ![GitHub last commit](https://img.shields.io/github/last-commit/g-d-j-evans/MeschaTUI) |
 | [MeshCore64](https://github.com/swannman/meshcore64) ![GitHub Repo stars](https://img.shields.io/github/stars/swannman/meshcore64?style=social) | MeshCore chat client for the Commodore 64, connecting via SwiftLink RS-232 to a companion device | ![GitHub last commit](https://img.shields.io/github/last-commit/swannman/meshcore64) |
+| [MeshCore Companion Web App (Dockerized)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social) | Dockerized self-hosted deployment of the [official Companion web app](https://app.meshcore.io/); image `ghcr.io/axistem-dev/meshcore-web` | ![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) |
 
 ## Free and Open Source firmware
 
