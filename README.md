@@ -7,6 +7,7 @@ communications utilising LoRa radio hardware. It can be used for off-grid
 communication, emergency response & disaster recovery, outdoor activities,
 or IoT sensor networks.
 
+
 ## Table of contents
 
 - [Official Resources](#official-resources)
@@ -24,6 +25,7 @@ or IoT sensor networks.
 
 --------------------
 
+
 ## Official Resources
 
 - [MeshCore.io](https://meshcore.io/) - The new homepage & official documentation
@@ -35,6 +37,7 @@ or IoT sensor networks.
 - [Facebook group](https://www.facebook.com/groups/meshcore)
 - [Current state of Meshcore encryption](https://github.com/meshcore-dev/MeshCore/issues/259)
 
+
 ## Other Resources
 
 - [MeshCore Official Facebook Group](https://www.facebook.com/groups/meshcore)
@@ -44,6 +47,7 @@ or IoT sensor networks.
 - [Meshcore region info](https://github.com/luckystriike22/meshcore_region_info)
 - [MeshCore OTA Firmware Update Guide](https://github.com/Mraanderson/meshcore-ota)
 - [Why MeshCore needs regions - explained simply](https://kiekr.app/why-regions)
+
 
 ## Free and Open Source apps
 
@@ -87,6 +91,7 @@ or IoT sensor networks.
 | [MeshCore64](https://github.com/swannman/meshcore64) ![GitHub Repo stars](https://img.shields.io/github/stars/swannman/meshcore64?style=social) | MeshCore chat client for the Commodore 64, connecting via SwiftLink RS-232 to a companion device | ![GitHub last commit](https://img.shields.io/github/last-commit/swannman/meshcore64) |
 | [MeshCore Companion Web App (Dockerized)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social) | Dockerized self-hosted deployment of the [official Companion web app](https://app.meshcore.io/); image `ghcr.io/axistem-dev/meshcore-web` | ![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) |
 
+
 ## Free and Open Source firmware
 
 | Project Name | Description | Last Updated |
@@ -116,13 +121,13 @@ or IoT sensor networks.
 | [MC-T5-Pro](https://github.com/dz0ny/meshcore-t5-epaper-s3-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore-t5-epaper-s3-pro?style=social) | **LilyGo T5 ePaper S3 Pro**  A paper-like handheld MeshCore communicator  | ![GitHub last commit](https://img.shields.io/github/last-commit/dz0ny/meshcore-t5-epaper-s3-pro) |
 
 
-
 ## Closed Source Firmware
 
 | Project Name | Description | Last Updated | Notes |
 | :--- | :--- | :---: | :--- |
 | [MC Term (Dabeani)](https://github.com/dabeani/meshcoreterm) ![GitHub Repo stars](https://img.shields.io/github/stars/dabeani/meshcoreterm?style=social) | **LilyGO T-Deck, T-Deck Plus, Seeed Studio SenseCap Indicator (TFT/D1Pro).** Touch-first UI with tabbed interface (Contacts, Channels, Map, Mgmt), slippy tile map, D-pad/trackball support, RSSI/SNR metadata display, and telemetry. | ![GitHub last commit](https://img.shields.io/github/last-commit/dabeani/meshcoreterm) | [Author might open source it somewhen in the future](https://github.com/dabeani/meshcoreterm/issues/82#issuecomment-3884543453). 
 | [MeshUltra](https://tdeck.ubnzeek.com/) | Meshcore firmware for both the T-Deck and T-Deck+ |
+
 
 ## Software Libraries
 
@@ -173,6 +178,7 @@ or IoT sensor networks.
 | [Mesh Citadel](https://github.com/taedryn/mesh-citadel) ![GitHub Repo stars](https://img.shields.io/github/stars/taedryn/mesh-citadel?style=social) | A MeshCore-first BBS, inspired by the Citadel BBSes of the 80s | Sep 25 | 
 | [BinktermPHP](https://github.com/awehttam/binkterm-php) ![GitHub Repo Stars](https://img.shields.io/github/stars/awehttam/binkterm-php?style=social) | A Full Stack Bulletin Board System with Meshcore support | May 2026 |
 
+
 ## Bots
 
 | Project / URL | Connection | Description |
@@ -189,7 +195,9 @@ or IoT sensor networks.
 
 ## Country / region Websites
 
+
 ### Europe
+
 - Austria
    - [Meshcore Austria](https://www.meshcore-austria.at/doku.php?id=start)
 - Belgium
@@ -249,7 +257,6 @@ or IoT sensor networks.
   - [MeshCore UA](https://meshcore.kiev.ua/) 
 
 
-
 ### North America
 
 - Canada
@@ -284,6 +291,7 @@ or IoT sensor networks.
   - [TennMesh](https://tennmesh.com/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
+
 ### Oceania
 
 - Australia
@@ -295,6 +303,7 @@ or IoT sensor networks.
 
 
 ## Chatgroups/ forums/ ...
+
 
 ### Global
 
@@ -335,6 +344,7 @@ In addition, there are e.g.:
 #### Russia
 - [Moscow Telegram group](https://t.me/meshcoremoscow)
 
+
 ### North America
 
 #### USA
@@ -350,6 +360,3 @@ In addition, there are e.g.:
 ### Oceania
  - [Meshore Australia](https://discord.gg/2NxehNDGT)
  - [Canberra Mesh Community](https://discord.gg/YeGhbsWhQD) (ATC and south NSW)
-
-
-
