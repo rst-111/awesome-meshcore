@@ -13,6 +13,7 @@ or IoT sensor networks.
 - [Official Resources](#official-resources)
 - [Other Resources](#other-resources)
 - [Open Source apps](#free-and-open-source-apps)
+- [Closed Source apps](#closed-source-apps)
 - [Open Source Firmware](#free-and-open-source-firmware)
 - [Closed Source Firmware](#closed-source-firmware)
 - [Software Libraries](#software-libraries)
@@ -89,7 +90,14 @@ or IoT sensor networks.
 | [Domoticz-MeshCore-Plugin](https://github.com/galadril/Domoticz-MeshCore-Plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/galadril/Domoticz-MeshCore-Plugin?style=social) | Domoticz plugin for MeshCore | ![GitHub last commit](https://img.shields.io/github/last-commit/galadril/Domoticz-MeshCore-Plugin) |
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | ![GitHub last commit](https://img.shields.io/github/last-commit/g-d-j-evans/MeschaTUI) |
 | [MeshCore64](https://github.com/swannman/meshcore64) ![GitHub Repo stars](https://img.shields.io/github/stars/swannman/meshcore64?style=social) | MeshCore chat client for the Commodore 64, connecting via SwiftLink RS-232 to a companion device | ![GitHub last commit](https://img.shields.io/github/last-commit/swannman/meshcore64) |
+
+
+## Closed Source apps
+
+| [Official MeshCore](https://meshcore.io/)-App | Official Flutter App, available for Android, iOS, GNU/Linux, Windows, MacOS, Webbrowser. Direct download at [files.liamcottle.net/MeshCore/](https://files.liamcottle.net/MeshCore/); [Arch Linux AUR package](https://aur.archlinux.org/packages/meshcore-bin). | See [files.liamcottle.net/MeshCore/](https://files.liamcottle.net/MeshCore/). |
 | [MeshCore Companion Web App (Dockerized)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social) | Dockerized self-hosted deployment of the [official Companion web app](https://app.meshcore.io/); image `ghcr.io/axistem-dev/meshcore-web` | ![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) |
+| [KiekR](https://kiekr.app) | A promising Android and iOS app; Desktop should also be coming. Can display scope of incoming messages, upload data to analysers, unlimited contacts, ... [German wrap-up of some features](https://meshcore-de.fyi/allgemeines:kiekr_app). | Check text below "Direct download Android APK"-button at [kiekr.app](https://kiekr.app/). |
+
 
 
 ## Free and Open Source firmware
