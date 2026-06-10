@@ -114,6 +114,7 @@ or IoT sensor networks.
 | [Saitima](https://github.com/868meshbot/Saitama) ![GitHub Repo stars](https://img.shields.io/github/stars/868meshbot/Saitama?style=social) | standalone firmware for LoRa mesh devices. Built on MeshCore, designed for the LilyGo T-Deck and T-Deck Plus. | ![GitHub last commit](https://img.shields.io/github/last-commit/868meshbot/Saitama) |
 | [Chiyocore](https://github.com/kore-signet/chiyocore) ![GitHub Repo stars](https://img.shields.io/github/stars/kore-signet/chiyocore?style=social) | **ESP32-based devices** (generic ESP32s with SX1262/SX1276 LoRa). An implementation of MeshCore written in Rust for ESP32, as an alternative to the C++ Arduino implementation. | ![GitHub last commit](https://img.shields.io/github/last-commit/kore-signet/chiyocore) |
 | [MC-T5-Pro](https://github.com/dz0ny/meshcore-t5-epaper-s3-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore-t5-epaper-s3-pro?style=social) | **LilyGo T5 ePaper S3 Pro**  A paper-like handheld MeshCore communicator  | ![GitHub last commit](https://img.shields.io/github/last-commit/dz0ny/meshcore-t5-epaper-s3-pro) |
+| [BlackJack-OS](https://github.com/Robert-Proaps/BlackJackOS-BJOS-) ![GitHub Repo stars](https://img.shields.io/github/stars/Robert-Proaps/BlackJackOS-BJOS-?style=social) | A toolbox and platform to create apps and functionality for LilyGo **T-Deck** and **T-Deck Plus**. | ![GitHub last commit](https://img.shields.io/github/last-commit/Robert-Proaps/BlackJackOS-BJOS-) |
 
 
 
