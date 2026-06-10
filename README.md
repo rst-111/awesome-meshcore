@@ -94,11 +94,11 @@ or IoT sensor networks.
 
 ## Closed Source apps
 
+| App | Description | Version / Downloads |
+|-----|-------------|---------------------|
 | [Official MeshCore](https://meshcore.io/)-App | Official Flutter App, available for Android, iOS, GNU/Linux, Windows, MacOS, Webbrowser. Direct download at [files.liamcottle.net/MeshCore/](https://files.liamcottle.net/MeshCore/); [Arch Linux AUR package](https://aur.archlinux.org/packages/meshcore-bin). | See [files.liamcottle.net/MeshCore/](https://files.liamcottle.net/MeshCore/). |
 | [MeshCore Companion Web App (Dockerized)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social) | Dockerized self-hosted deployment of the [official Companion web app](https://app.meshcore.io/); image `ghcr.io/axistem-dev/meshcore-web` | ![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) |
 | [KiekR](https://kiekr.app) | A promising Android and iOS app; Desktop should also be coming. Can display scope of incoming messages, upload data to analysers, unlimited contacts, ... [German wrap-up of some features](https://meshcore-de.fyi/allgemeines:kiekr_app). | Check text below "Direct download Android APK"-button at [kiekr.app](https://kiekr.app/). |
-
-
 
 ## Free and Open Source firmware
 
