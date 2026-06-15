@@ -90,6 +90,7 @@ or IoT sensor networks.
 | [Domoticz-MeshCore-Plugin](https://github.com/galadril/Domoticz-MeshCore-Plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/galadril/Domoticz-MeshCore-Plugin?style=social) | Domoticz plugin for MeshCore | ![GitHub last commit](https://img.shields.io/github/last-commit/galadril/Domoticz-MeshCore-Plugin) |
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | ![GitHub last commit](https://img.shields.io/github/last-commit/g-d-j-evans/MeschaTUI) |
 | [MeshCore64](https://github.com/swannman/meshcore64) ![GitHub Repo stars](https://img.shields.io/github/stars/swannman/meshcore64?style=social) | MeshCore chat client for the Commodore 64, connecting via SwiftLink RS-232 to a companion device | ![GitHub last commit](https://img.shields.io/github/last-commit/swannman/meshcore64) |
+| [SigurdOS Client](https://github.com/hermes-gadget/SigurdOS-client) ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-gadget/SigurdOS-client?style=social) | Companion App for GNU/Linux, Android, iOS, Windows, macOS; based on "[Meshcore Open](https://github.com/zjs81/meshcore-open)", specifically for "[SigurdOS T-Deck](https://github.com/hermes-gadget/SigurdOS-tdeck)"-firmware. | ![GitHub last commit](https://img.shields.io/github/last-commit/hermes-gadget/SigurdOS-client) |
 
 
 ## Closed Source apps
@@ -128,6 +129,7 @@ or IoT sensor networks.
 | [Chiyocore](https://github.com/kore-signet/chiyocore) ![GitHub Repo stars](https://img.shields.io/github/stars/kore-signet/chiyocore?style=social) | **ESP32-based devices** (generic ESP32s with SX1262/SX1276 LoRa). An implementation of MeshCore written in Rust for ESP32, as an alternative to the C++ Arduino implementation. | ![GitHub last commit](https://img.shields.io/github/last-commit/kore-signet/chiyocore) |
 | [MC-T5-Pro](https://github.com/dz0ny/meshcore-t5-epaper-s3-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore-t5-epaper-s3-pro?style=social) | **LilyGo T5 ePaper S3 Pro**  A paper-like handheld MeshCore communicator  | ![GitHub last commit](https://img.shields.io/github/last-commit/dz0ny/meshcore-t5-epaper-s3-pro) |
 | [BlackJack-OS](https://github.com/Robert-Proaps/BlackJackOS-BJOS-) ![GitHub Repo stars](https://img.shields.io/github/stars/Robert-Proaps/BlackJackOS-BJOS-?style=social) | A toolbox and platform to create apps and functionality for LilyGo **T-Deck** and **T-Deck Plus**. | ![GitHub last commit](https://img.shields.io/github/last-commit/Robert-Proaps/BlackJackOS-BJOS-) |
+| [SigurdOS T-Deck](https://github.com/hermes-gadget/SigurdOS-tdeck) ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-gadget/SigurdOS-tdeck?style=social) | A standalone GPL-3.0-or-later licensed companion app for LilyGo T-Deck. | ![GitHub last commit](https://img.shields.io/github/last-commit/hermes-gadget/SigurdOS-tdeck) |
 
 
 ## Closed Source Firmware
